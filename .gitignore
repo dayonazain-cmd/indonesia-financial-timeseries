@@ -5,8 +5,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data
-data/*.csv
-data/*.parquet
+#data/*.csv
+#data/*.parquet
 
 # macOS
 .DS_Store
